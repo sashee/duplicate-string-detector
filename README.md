@@ -1,6 +1,6 @@
 # duplicate-string-detector
 
-This is a sample project for a blog post: 
+This is a sample project for a blog post: https://advancedweb.hu/2015/02/03/detecting-possibly-duplicate-strings/
 
 ## Usage
 
